@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "258833788697",
+    "project_id": "mydigimind-7846c",
+    "storage_bucket": "mydigimind-7846c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258833788697:android:0a181c2c701e4be2a39f88",
+        "android_client_info": {
+          "package_name": "molina.raul.mydigimind"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258833788697-calmm9asibvfnfpa2s60tsdegs92noe3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDlKKWKUXUq6izXvTSJjoZcBbWbXIlF0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "258833788697-calmm9asibvfnfpa2s60tsdegs92noe3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
